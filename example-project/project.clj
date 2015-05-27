@@ -22,7 +22,7 @@
 
    ;;; ---> Choose (uncomment) a supported web server <---
    [http-kit                  "2.1.19"]
-   ;; [org.immutant/web       "2.0.0"]
+   ;; [org.immutant/web       "2.0.1"]
 
    [ring                      "1.3.2"]
    [ring/ring-defaults        "0.1.5"] ; Includes `ring-anti-forgery`, etc.

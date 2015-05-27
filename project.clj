@@ -41,7 +41,7 @@
       [lein-cljsbuild                  "1.0.5"]
       ;;
       [http-kit                        "2.1.19"]
-      [org.immutant/web                "2.0.0"]
+      [org.immutant/web                "2.0.1"]
       ;;
       [lein-pprint                     "1.1.1"]
       [lein-ancient                    "0.6.7"]
